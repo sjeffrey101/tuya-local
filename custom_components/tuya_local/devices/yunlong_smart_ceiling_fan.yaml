@@ -2,6 +2,8 @@ name: Ceiling fan
 products:
   - id: nay3m50enerxo9av
     manufacturer: Yunlong
+  - id: keywcu4xye75apxy
+    manufacturer: Yunlong
 entities:
   - entity: light
     dps:
