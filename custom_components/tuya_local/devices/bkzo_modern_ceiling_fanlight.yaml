@@ -6,6 +6,12 @@ products:
   - id: i0yyq4cfajodbi2f
     manufacturer: BKZO
     model: Modern LED
+  - id: ftqsaibnb3insvp9
+    manufacturer: BKZO
+    model: Modern LED   
+  - id: keynhmnkvvvurmw9
+    manufacturer: BKZO
+    model: Modern LED
 entities:
   - entity: light
     dps:
